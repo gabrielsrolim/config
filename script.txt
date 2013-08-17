@@ -1,0 +1,4 @@
+Para instalar o PIL
+sudo apt-get install libjpeg8 libjpeg8-dev libfreetype6 libfreetype6-dev zlib1g-dev
+sudo apt-get install python-dev
+pip install PIL
